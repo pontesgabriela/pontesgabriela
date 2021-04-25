@@ -1,10 +1,6 @@
   <b>
-  <b>Hi there 👋 :grinning:	
-    
   <b>
   <b>
-  <b>
-  
    :aries: Me chamo Gabriela Pontes
    
    :world_map: Moro em Blumenau, 🇧🇷	

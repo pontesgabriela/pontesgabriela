@@ -7,7 +7,7 @@
    
    :world_map: <b>Moro em Blumenau, 🇧🇷	
    
-   :woman_technologist: <b>Atuo como IT Acquisition | Tech HR na Hoop Digital 	
+   :woman_technologist: <b>IT Acquisition | Tech HR | Smart Recruitment | Tech Recruiter	
    
    :woman_student: <b>Sou graduanda em RH 
   

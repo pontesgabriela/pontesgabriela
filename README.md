@@ -1,15 +1,15 @@
 ### Hi there 👋 :grinning:	
   <b>
-   :reminder_ribbon: <b>Me chamo Gabriela Pontes
+   :aries: <b>Me chamo Gabriela Pontes
   
-    <b>Moro em Blumenau, :brazil: 
+    Moro em Blumenau, :brazil:	
   
    :woman_technologist: <b>Atuo como IT Acquisition | Tech HR na Hoop Digital 	
   
    :woman_student: <b>Sou graduanda em RH 
   
 
-![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/98c0aac2e2e1b7d7919cafadcb51b13282595b60/Gabriela.jpg)
+                  ![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/98c0aac2e2e1b7d7919cafadcb51b13282595b60/Gabriela.jpg)
   
 ## Conecte-se comigo através:
 <a href="https://www.linkedin.com/in/gabrielapontesrh/" target="_blank">

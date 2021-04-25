@@ -1,4 +1,4 @@
-   <b>Hi there 👋 :grinning:	 
+   <b>Olá Pessoal 👋 :grinning:	 
     
     
    :aries: <b>Me chamo Gabriela Pontes

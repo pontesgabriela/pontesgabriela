@@ -9,7 +9,7 @@
    
    :woman_student: <b>Sou graduanda em RH 
   
-   ![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/39a758d27a0638389765560c0e0c3fb1dc4b48b9/Gabriela.jpg)
+   ![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/bf71d619c9aa7b114069257797766b06f12707b0/Gabriela1.jpg)
   
 ## Conecte-se comigo através:
 <a href="https://www.linkedin.com/in/gabrielapontesrh/" target="_blank">

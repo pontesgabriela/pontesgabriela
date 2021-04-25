@@ -4,7 +4,7 @@ Me chamo Gabriela Pontes
   * Trabalho como Tech Researcher na Hoop Digital :woman_technologist:	
   * Sou graduanda em RH :woman_student:	
 
-https://github.com/pontesgabriela/pontesgabriela/blob/main/8f6a4aa7-b92f-4329-9e87-7f30df57a121.jfif
+![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/98c0aac2e2e1b7d7919cafadcb51b13282595b60/Gabriela.jpg)
   
 ## Conecte-se comigo através:
 <a href="https://www.linkedin.com/in/gabrielapontesrh/" target="_blank">

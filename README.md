@@ -1,4 +1,6 @@
-   <b>Olá Pessoal 👋 :grinning:	 
+   ![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/87783842df2c9f67ba8e672e6e5a8022396c9b65/Gabriela2.jpg) 
+  
+  <b>Olá Pessoal 👋 :grinning:	 
     
     
    :aries: <b>Me chamo Gabriela Pontes
@@ -9,7 +11,7 @@
    
    :woman_student: <b>Sou graduanda em RH 
   
-   ![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/bf71d619c9aa7b114069257797766b06f12707b0/Gabriela1.jpg)
+   
   
 ## Conecte-se comigo através:
 <a href="https://www.linkedin.com/in/gabrielapontesrh/" target="_blank">

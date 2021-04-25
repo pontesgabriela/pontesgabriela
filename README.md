@@ -2,7 +2,7 @@
   <b>
    :aries: <b>Me chamo Gabriela Pontes
   
-    Moro em Blumenau, :brazil:	
+   Moro em Blumenau 🇧🇷	
   
    :woman_technologist: <b>Atuo como IT Acquisition | Tech HR na Hoop Digital 	
   

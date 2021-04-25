@@ -1,7 +1,5 @@
-  <b>
-  <b>
-  <b>
-   <b>Hi there 👋 :grinning:	 
+   <b>
+    Hi there 👋 :grinning:	 
      
    :aries: Me chamo Gabriela Pontes
    

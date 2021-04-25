@@ -2,7 +2,8 @@
 
 
   <b>
-   :aries: </>Me chamo Gabriela Pontes</>
+  
+   :aries: Me chamo Gabriela Pontes
    
    :world_map: Moro em Blumenau, 🇧🇷	
    

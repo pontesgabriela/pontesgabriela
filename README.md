@@ -1,8 +1,10 @@
 ### Hi there 👋
-Me chamo Gabriela Pontes
+  <b>
+  * Me chamo Gabriela Pontes
   * Moro em Blumenau, :brazil: 
   * Atuo como IT Acquisition | Tech HR na Hoop Digital :woman_technologist:	
   * Sou graduanda em RH :woman_student:	
+  
 
 ![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/98c0aac2e2e1b7d7919cafadcb51b13282595b60/Gabriela.jpg)
   

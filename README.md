@@ -1,4 +1,4 @@
-   ![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/bc9d53ee81d9e421c7cc959be76d2f5a73b05e90/Gabriela3.jpg) 
+   ![Gabriela](https://github.com/pontesgabriela/pontesgabriela/blob/main/gabriela%20tech.jpeg) 
   
   <b>Olá Pessoal 👋 :grinning:	 
     
